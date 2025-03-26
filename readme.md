@@ -35,3 +35,12 @@
 但是实际上内容就是这样：
 
 <img src="./photo/联想截图_20250326152816.png" alt="联想截图_20250326152728" alt="image-20250326152817888" style="zoom:50%;" />
+
+### 结构：
+
+main.py:解析文件代码
+process.py:清洗代码
+processed_data.jsonl:示例清洗结果
+temp_processed_data.txt:中间结果
+依赖说明.txt:依赖说明
+运行视频.mkv:代码运行视频
